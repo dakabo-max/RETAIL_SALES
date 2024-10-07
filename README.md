@@ -69,10 +69,9 @@ WHERE
 
 
 ### 3. Data Analysis & Findings
+The following SQL queries were developed to answer specific business questions;
 
-The following SQL queries were developed to answer specific business questions:
-
-1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
+1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05'**:
 ```sql
 SELECT *
 FROM retail_sales
